@@ -4,6 +4,9 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+.idea/
+cd C:\Users\313\Documents\COMP2042\CW2024
+
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
